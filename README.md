@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=668EF7&center=true&vCenter=true&width=435&lines=Welcome+to+Jongho's+GitHub)](https://git.io/typing-svg)
+
 <div align="center">
   <h3>💻 Tech Stack</h3>
   
