@@ -1,4 +1,5 @@
 <p align="center">
+  </br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=668EF7&center=true&vCenter=true&width=435&lines=Welcome+to+Jongho's+GitHub" />  
   </br></br></br></br></br>
