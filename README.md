@@ -11,10 +11,9 @@
 </div>
 
 <div align="center">
-  <br>
   <img src="https://img.shields.io/badge/Email-668EF7?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/jongho5378@gmail.com-000000?style=flat-square&logoColor=white" />
-  <br><br>
+  <br><br><br>
 </div>
 
 <div align="center">
