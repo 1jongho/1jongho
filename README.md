@@ -2,7 +2,7 @@
 <p align="center">
   <br>
   <a href="https://github.com/1jongho?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=668EF7&center=true&vCenter=true&width=435&lines=Welcome+to+Jongho's+GitHub" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=668EF7&center=true&vCenter=true&width=435&lines=Welcome+to+Jongho's+GitHub" />  <https://readme-typing-svg.demolab.com/demo/?font=Dancing+Script&size=40&color=668EF7&center=true&vCenter=true&lines=Welcome+to+Jongho%27s+GitHub>
   </a>
   <br><br><br>
 </p>
